@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T13:49:15.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Whale/3.25.232.19 Safari/537.36" version="24.0.5" etag="2XRYlOnO0B1wC_NnGxNf" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T14:26:49.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Whale/3.25.232.19 Safari/537.36" etag="bG8PET7OM9FiAgYmRT4Y" version="24.0.5" type="github">
   <diagram name="페이지-1" id="o7NdSBb5KA4oX2cPSQqY">
-    <mxGraphModel>
+    <mxGraphModel dx="1436" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-1" target="9O12PkgPEP_xrRiqoDo1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-1" target="9O12PkgPEP_xrRiqoDo1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-1" target="9O12PkgPEP_xrRiqoDo1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-1" value="&lt;h1&gt;원소&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-2" value="&lt;h1&gt;불&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-4" target="9O12PkgPEP_xrRiqoDo1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-4" value="&lt;h1&gt;물&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-10" target="9O12PkgPEP_xrRiqoDo1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-10" value="&lt;h1&gt;바람&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-12" target="9O12PkgPEP_xrRiqoDo1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-12" value="&lt;h1&gt;흙&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-14" target="9O12PkgPEP_xrRiqoDo1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-14" value="&lt;h1&gt;풀&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-27" target="9O12PkgPEP_xrRiqoDo1-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-27" value="&lt;h2&gt;원소의 힘을 다루며&lt;br&gt;보스를 잡는 사각형&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="590" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-28" target="9O12PkgPEP_xrRiqoDo1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-28" value="&lt;h1&gt;다이지&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-30" target="9O12PkgPEP_xrRiqoDo1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-30" value="&lt;h3&gt;사쿠야 히메&lt;/h3&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-32" target="9O12PkgPEP_xrRiqoDo1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-32" value="&lt;h2&gt;츠쿠요미&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-34" target="9O12PkgPEP_xrRiqoDo1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-34" value="&lt;h2&gt;스사노오&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-36" target="9O12PkgPEP_xrRiqoDo1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-36" value="&lt;h2&gt;카구츠치&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-39" value="&lt;h2&gt;사각형은 각 원소에 해당하는 일본 신화 속&lt;/h2&gt;&lt;h2&gt;신들에게서 능력을 빌려 쓴다.&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="790" width="400" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
