@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T14:58:03.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Whale/3.25.232.19 Safari/537.36" etag="WKXXhIEU6ludZx0JJaG5" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T15:06:16.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Whale/3.25.232.19 Safari/537.36" etag="sslDonNS6Gtw-2Mql3hR" version="24.0.5" type="github">
   <diagram name="페이지-1" id="o7NdSBb5KA4oX2cPSQqY">
-    <mxGraphModel dx="1878" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,11 +115,21 @@
         <mxCell id="9O12PkgPEP_xrRiqoDo1-43" value="&lt;h2&gt;마가츠히노카미&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="190" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-46" target="9O12PkgPEP_xrRiqoDo1-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9O12PkgPEP_xrRiqoDo1-46" value="&lt;h1&gt;물 : 발사&lt;/h1&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9O12PkgPEP_xrRiqoDo1-51" value="&lt;h1&gt;풀 : 복제&lt;/h1&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1510" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-53" target="9O12PkgPEP_xrRiqoDo1-75">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9O12PkgPEP_xrRiqoDo1-53" value="&lt;h1&gt;바람 : 보호막&lt;/h1&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1095" y="960" width="160" height="60" as="geometry" />
@@ -131,16 +141,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9O12PkgPEP_xrRiqoDo1-63" value="&lt;h2&gt;원소를 획득하는 방법&lt;br&gt;필드에서 드랍하는 형식&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="600" width="257.5" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="9O12PkgPEP_xrRiqoDo1-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-64" target="9O12PkgPEP_xrRiqoDo1-66">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1654" y="600" width="257.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9O12PkgPEP_xrRiqoDo1-64" value="&lt;h2&gt;5가지의 모든 원소가 생성 되지만 조합을 통해 만들면 특수 효과가 발현 됨&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="760" width="257.5" height="110" as="geometry" />
+          <mxGeometry x="1654" y="760" width="257.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="9O12PkgPEP_xrRiqoDo1-66" value="&lt;h2&gt;&lt;br&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="920" width="257.5" height="110" as="geometry" />
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-41" target="9O12PkgPEP_xrRiqoDo1-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="990" as="sourcePoint" />
+            <mxPoint x="910" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O12PkgPEP_xrRiqoDo1-72" target="9O12PkgPEP_xrRiqoDo1-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-72" value="&lt;h1&gt;풀 : 복제 + 회복&lt;/h1&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1050" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9O12PkgPEP_xrRiqoDo1-75" value="&lt;h1&gt;불 : 원거리 광역&lt;/h1&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="1050" width="185" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
